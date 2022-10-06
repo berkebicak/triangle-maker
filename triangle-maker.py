@@ -22,8 +22,8 @@ def tri():
         t.forward(a)
         t.left(120)
         a= a-10
-tri()
-tri()
+for i in range(2)
+    tri()
 
 
 t.hideturtle()
